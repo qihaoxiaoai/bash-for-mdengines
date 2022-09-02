@@ -1,4 +1,9 @@
 #!/bin/bash
+
+###########
+##racyhe
+##qihaoxiaoai@gmail.com
+###########
 set -e
 module purge
 module load gcc/5.4.0
